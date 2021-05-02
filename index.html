@@ -9,7 +9,16 @@
   </head>
 
   <body>
-    <script src="index.js"></script>
+    <script src="index.js" defer></script>
+
+    <form id = "person-form" action = "http://localhost:3000/users" method = "POST">
+      <label> Name: <input type = "text" name = "name" id = "name"/></label>
+      <label> Email: <input type = "text" name = "email" id = "email"/></label> 
+      <input type = "submit" id = "submit" value = "Create New Person">
+    </form>
+
+    <ul id = "person-list"></ul>
+
   </body>
 
 </html>
