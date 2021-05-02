@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,68 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "asdfa",
+      "email": "asdfadf",
+      "id": 1
+    },
+    {
+      "name": "asdfa",
+      "email": "asdfadf",
+      "id": 2
+    },
+    {
+      "name": "asdfa",
+      "email": "asdfadf",
+      "id": 3
+    },
+    {
+      "name": "asdfa",
+      "email": "asdfadf",
+      "id": 4
+    },
+    {
+      "name": "Alexandra Rodriguez-Beuerman",
+      "email": "arbeuerman@yahoo.com",
+      "id": 5
+    },
+    {
+      "name": "New home",
+      "email": "asdfadf",
+      "id": 6
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 9
+    },
+    {
+      "name": "dsfadfad",
+      "email": "fasdfasdfasd",
+      "id": 10
+    },
+    {
+      "name": "SFSDFA",
+      "email": "ASDFAD",
+      "id": 11
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
